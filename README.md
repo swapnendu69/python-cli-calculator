@@ -1,21 +1,38 @@
-# Python CLI Calculator
+# 🧮 Python CLI Calculator
 
-An interactive calculator written in Python (Jupyter Notebook).  
-It supports arithmetic operations, history, and memory functions — all from the command line.
+An interactive command-line calculator built using Python (Jupyter Notebook).  
+It supports arithmetic, trigonometric, and memory operations — all from a simple menu-based interface.
 
-## 🧠 Features
-- Simple and user-friendly command-line menu  
-- Performs basic and advanced math operations  
-- Keeps calculation history and supports memory storage  
-- No external dependencies (only built-in Python libraries)
+---
+
+## ✨ Features
+- Simple and user-friendly CLI interface  
+- Performs addition, subtraction, multiplication, division, and advanced math operations  
+- Supports memory storage and history  
+- No external dependencies (only Python standard libraries: `math`, `os`)  
+
+---
 
 ## 🚀 How to Use
-### Option 1 — Jupyter Notebook
-1. Download or clone the repository  
-2. Open `python_cli_calculator.ipynb` in **Jupyter Notebook** or **Google Colab**
-3. Run all the cells — the calculator will start automatically  
 
-### Option 2 — Python Script (optional)
-If you convert it to `.py`:
+### 🟢 Option 1 — Run Online (Recommended)
+You can open and use this calculator instantly on **Google Colab** — no installation needed.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<repo-name>/blob/main/python_cli_calculator.ipynb)
+
+1. Click the badge above.  
+2. Colab will open the notebook online.  
+3. Click **Runtime → Run all**, and your calculator will start automatically.
+
+---
+
+### 🟣 Option 2 — Run Locally (Offline)
+If you have Python installed on your computer:
+
+1. Download or clone this repository  
+2. Open the file `python_cli_calculator.ipynb` in **Jupyter Notebook** or **VS Code**  
+3. Run all the cells — the calculator will start  
+
+OR convert it to `.py`:
 ```bash
 python calculator.py
