@@ -33,6 +33,11 @@ If you have Python installed on your computer:
 2. Open the file `python_cli_calculator.ipynb` in **Jupyter Notebook** or **VS Code**  
 3. Run all the cells — the calculator will start  
 
-OR convert it to `.py`:
-```bash
-python calculator.py
+## 🧮 Run the Calculator (Python Script)
+1. Visit this repository
+2. Click **Code → Download ZIP**
+3. Extract the folder
+4. Open a terminal inside it
+5. Run:
+   ```bash
+   python python_cli_calculator.py
