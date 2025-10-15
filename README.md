@@ -15,10 +15,10 @@ It supports arithmetic, trigonometric, and memory operations — all from a simp
 
 ## 🚀 How to Use
 
-### 🟢 Option 1 — Run Online (Recommended)
+### 🟢 Option 1 — Run Online
 You can open and use this calculator instantly on **Google Colab** — no installation needed.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<repo-name>/blob/main/python_cli_calculator.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/swapnendu69/python-cli-calculator/blob/main/python_cli_calculator.ipynb)
 
 1. Click the badge above.  
 2. Colab will open the notebook online.  
