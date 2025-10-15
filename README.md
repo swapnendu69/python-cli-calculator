@@ -27,17 +27,9 @@ You can open and use this calculator instantly on **Google Colab** — no instal
 ---
 
 ### 🟣 Option 2 — Run Locally (Offline)
-If you have Python installed on your computer:
 
-1. Download or clone this repository  
-2. Open the file `python_cli_calculator.ipynb` in **Jupyter Notebook** or **VS Code**  
-3. Run all the cells — the calculator will start  
-
-## 🧮 Run the Calculator (Python Script)
-1. Visit this repository
-2. Click **Code → Download ZIP**
-3. Extract the folder
-4. Open a terminal inside it
-5. Run:
-   ```bash
-   python python_cli_calculator.py
+1. Open git bash on your computer  
+2. Write: `git clone https://github.com/SwapnenduSoumik/python-cli-calculator.git
+cd python-cli-calculator
+python python_cli_calculator.py`  
+3. Press ENTER — the calculator will start  
